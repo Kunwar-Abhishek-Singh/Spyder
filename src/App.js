@@ -1,8 +1,11 @@
 import './App.css';
+import Hello2 from './FunctionBasedComp/Hello2';
 
 function App() {
   return (
     <div className="App">
+      
+      <Hello2></Hello2>
       <h1>Welcome to the learning page of React js</h1>
       <h1 className='shiva'>I am shivam singh Present</h1>
       <h1>I am RAVI RAJ Present</h1>
