@@ -1,4 +1,5 @@
 import './App.css';
+import Hello from './FunctionBasedComp/Hello';
 import Hello2 from './FunctionBasedComp/Hello2';
 
 function App() {
@@ -6,6 +7,7 @@ function App() {
     <div className="App">
       
       <Hello2></Hello2>
+      <Hello></Hello>
       <h1>Welcome to the learning page of React js</h1>
       <h1 className='shiva'>I am shivam singh Present</h1>
       <h1>I am RAVI RAJ Present</h1>
