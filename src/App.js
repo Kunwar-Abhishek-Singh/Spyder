@@ -1,7 +1,7 @@
 import './App.css';
 import Hello from './FunctionBasedComp/Hello';
 import Hello2 from './FunctionBasedComp/Hello2';
-import hello3 from './FunctionBasedComp/Hello3';
+import Hello3 from './FunctionBasedComp/hello3';
 
 function App() {
   return (
@@ -9,7 +9,8 @@ function App() {
       
       <Hello2></Hello2>
       <Hello></Hello>
-      <hello3></hello3>
+      <Hello3></Hello3>
+      
       <h1>Welcome to the learning page of React js</h1>
       <h1 className='shiva'>I am shivam singh Present</h1>
       <h1>I am RAVI RAJ Present</h1>

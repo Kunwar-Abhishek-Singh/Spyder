@@ -1,11 +1,12 @@
 import React from 'react'
 
-const hello3 = () => {
+const Hello3 = () => {
   return (
     <div>
-      <h2> This is our project</h2>
+      <h2> This is our program</h2>
     </div>
   )
 }
 
-export default hello3
+export default Hello3
+
