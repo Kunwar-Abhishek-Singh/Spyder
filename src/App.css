@@ -12,6 +12,11 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.ravi{
+  color: yellow;
+
+}
+ 
 
 .App-header {
   background-color: #282c34;
@@ -35,4 +40,11 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.saurabhName{
+  color: red;
+}
+.pritam{
+  color:cyan;
 }
